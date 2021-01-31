@@ -76,6 +76,8 @@ async def disconnect(ctx):
         return
     await vc.disconnect()
     vc = None
+    global userenabled
+    userenabled = None
 
 @bot.command(name='choose')
 async def choose(ctx):
