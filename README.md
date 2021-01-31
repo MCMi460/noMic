@@ -24,7 +24,7 @@ Invite the bot and do (prefix)help
 
 ---
 
-*(In case you haven't heard yet, Discord now has [SLASH Commands!][slashc] However, I'm sorry to disappoint when I say that discord.py has no plans as of now to add support for them in an update. Until their decision is changed and support is added, there will not be an update for this repository with slash commands. The main function of this bot and all of its commands are unaffected by this, but the visual integration of commands on a client's display is not available. Thank you.)*
+*(Disclaimer: This version fo the bot only works with one server at a time. I will rewrite it to add more server support sometime in the far future; this was just an idea given to me by one of my friends that I thought would be cool. I spent less than an hour on the final design, all things told, so I don't want to spend more than that time bugfixing it.)*
 
 ---
 ## Requirements:
