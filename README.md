@@ -8,7 +8,7 @@
 
 Step 1:
 
-Make a develop application. Then, download master.zip and unzip.
+Make a [developer application][disdev]. Then, download master.zip and unzip.
 
 Step 2:
 
@@ -53,3 +53,6 @@ You don't have to give credit to me. That's not what Github is for (in my opinio
 [bot]: https://github.com/MCMi460/noMic/blob/main/bot.py
 [support]: https://mi460.dev/bugs
 [slashc]: https://discord.com/developers/docs/interactions/slash-commands
+[disdev]: https://discord.com/developers/applications/
+
+<!--- You found an easter egg! Here's a cookie UwU :totallyrealcookie.png: -->
