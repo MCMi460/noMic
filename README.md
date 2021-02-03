@@ -12,7 +12,7 @@ Make a [developer application][disdev]. Then, download master.zip and unzip.
 
 Step 2:
 
-Download all requirements as stated in the requirements section, then update the [settings.py][settings] with your token and prefix of choice.
+Install all the requirements as stated in the requirements section with a package manager like [pip][pip], then update the [settings.py][settings] with your token and prefix of choice.
 
 Step 3:
 
@@ -54,5 +54,6 @@ You don't have to give credit to me. That's not what Github is for (in my opinio
 [support]: https://mi460.dev/bugs
 [slashc]: https://discord.com/developers/docs/interactions/slash-commands
 [disdev]: https://discord.com/developers/applications/
+[pip]: https://pypi.org/project/pip/
 
 <!--- You found an easter egg! Here's a cookie UwU :totallyrealcookie.png: -->
