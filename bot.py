@@ -56,6 +56,7 @@ async def help(ctx):
     embed.add_field(name="`/say`", value="Says the message following this command.", inline=False)
     embed.add_field(name="`/choose`", value="Every message you type from now on (other than links) will be on the voice channel. This will overwrite the previous user.", inline=False)
     embed.add_field(name="`/join`", value="Joins the voice channel you are in.", inline=False)
+    embed.add_field(name="`/leave`", value="Leaves the voice channel it was in.", inline=False)
     await ctx.author.send(embed=embed)
 
 @bot.command(name='join',aliases=['start'])
